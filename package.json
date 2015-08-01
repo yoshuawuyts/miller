@@ -1,7 +1,7 @@
 {
   "name": "miller",
   "version": "1.0.1",
-  "description": "",
+  "description": "Schema validator for objects",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha --recursive --harmony-generators -R spec",
